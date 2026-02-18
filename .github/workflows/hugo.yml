@@ -5,9 +5,13 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:          # 👈 MÊME NIVEAU que runs-on
+      contents: write     # 👈 Écrase sur repo
+      pages: write        # 👈 Crée Pages
+      id-token: write     # 👈 Authentification
     steps:
     - uses: actions/checkout@v4
-      with:
+      with: 
         submodules: true
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
