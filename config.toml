@@ -1,6 +1,5 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
 
 # Plugins
 [params.plugins]
@@ -49,9 +48,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
-
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  sections = ["showcase", "about", "client-and-work"]
 
   [params.logo]
     text1 = "Asma"
