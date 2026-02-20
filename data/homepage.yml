@@ -3,13 +3,13 @@ showcase:
   enable: true
   title: "Hello, I'm Asma."
   subtitle: "Data Scientist | Analytics & BI"
-  description: "I build systems that turn data into decisions people actually use."
+  description: "I build systems that turn raw data into decisions people understand, trust and actually use."
 
   image:
     x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2xx.png"
+    _2x: "img/showcase/showcase@2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/showcase-m.jpg"
 
   #button:
   #  icon: "icon-mail-fill"

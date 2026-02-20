@@ -12711,11 +12711,13 @@ textarea:focus {
     position: relative;
     left: 0;
     right: 0;
+    margin: 2%;
     opacity: 1
 }
 
 .rad-showcase__bg--mobile img {
-    margin-top: 40px
+    margin-top: 10px;
+    width: 100%
 }
 
 .rad-showcase .container {
@@ -12745,7 +12747,7 @@ textarea:focus {
 }
 
 .rad-showcase .container p.lead {
-    width: 75%
+    width: 80%
 }
 
 .rad-showcase .platform-links {
