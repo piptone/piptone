@@ -32,3 +32,27 @@ Demo: https://raditian-hugo.radity.com
 ## Support
 
 If you have any problem please do not hesitate to [contact us](https://radity.com/en/contact/).
+
+
+
+# Asma Bouach – Personal Portfolio
+
+Live site: https://asma-bouach.netlify.app (or your Netlify domain)
+
+Personal portfolio website showcasing my work as a Junior BI Engineer / Data Analyst with ML experience.
+
+## Built with
+- Hugo (static site generator)
+- Netlify (hosting & CI/CD)
+- Custom theme + my own styling
+
+## Projects featured
+- Sales Forecasting & Financial Analytics Platform → [repo](https://github.com/asmabouach/sales-forecasting-platform)
+- Waze Churn Prediction App → [repo](https://github.com/asmabouach/waze-churn-prediction)
+- Alzheimer MRI Detection → [repo](https://github.com/asmabouach/alzheimer-mri-detection)
+
+## Contact
+- LinkedIn: linkedin.com/in/asma-b
+- Email: asma.b@gmail.com
+
+© Asma Bouach 2026

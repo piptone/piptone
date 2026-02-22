@@ -1,5 +1,0 @@
-$env:PATH += ";C:\Hugo"
-hugo server -D
-
-
-hugo new site . --force

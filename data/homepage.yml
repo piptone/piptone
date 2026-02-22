@@ -11,11 +11,6 @@ showcase:
   imageMobile:
     x: "img/showcase/showcase-m.jpg"
 
-  #button:
-  #  icon: "icon-mail-fill"
-  #  btnText: "Contact"
-  #  URL: ""
-
   socialLinks:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/asma-bouach/"
@@ -37,53 +32,45 @@ about:
     Currently deepening expertise in cloud architectures and MLOps to build reliable AI systems ready for real environments.
     </p>'
 
-  #button:
-  #  icon: "icon-smile-fill"
-  #  btnText: "About Me"
-  #  URL: "https://www.linkedin.com/company/radity/"
-  #image:
-  #  x: "img/who-am-i/user-picture.png"
-  #  _2x: "img/who-am-i/user-picture@2x.png"
-
 # education
 education:
   enable: false
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "University of "
+      year: " "
+      degree: " "
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "University of "
+      year: " "
+      degree: " "
 
 # experience
 experience:
   enable: false
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: ""
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
+    btnText: "Resume"
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: ""
+      company: ""
+      duration: ""
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: ""
+      company: ""
+      duration: ""
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: ""
+      company: ""
+      duration: ""
 
 client_and_work:
   title: "Portfolio"
@@ -142,26 +129,13 @@ testimonial:
   enable: false
   title: "Testimonials"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: ""
+      position: ""
+      content: ""
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: ""
+        _2x: ""
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
-
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
 
 # contact
 contact:
@@ -169,18 +143,15 @@ contact:
   title: "Contact"
   form:
     action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+    full_name: ""
+    email: ""
+    message: ""
   phone:
-    title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    title: ""
+    number: ""
   email:
-    title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    title: ""
+    email: ''
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
@@ -188,7 +159,7 @@ contact:
 # newsletter
 newsletter:
   enable: false
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+  title: ""
+  success_message: ""
+  error_message: ""
+  note: ""
