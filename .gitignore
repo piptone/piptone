@@ -30,5 +30,5 @@ builds/
 */img/general/*.svg
 
 # Misc
-cmd.txt
+*cmd.txt
 
